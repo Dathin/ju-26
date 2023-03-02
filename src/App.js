@@ -12,7 +12,7 @@ function App() {
         <p>
           🥷 ❤️
         </p>
-        <a href={'ifood://redeem_ifood_card?cardNumber=6398210099528231186618202'}>
+        <a href={'ifood://redeem_ifood_card?cardNumber=6398210091729591186619013'}>
           Clique aqui para surpresinha
         </a>
       </header>
