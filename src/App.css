@@ -23,6 +23,43 @@
   color: #61dafb;
 }
 
+a {
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  --swiper-theme-color: #007aff;
+  --swiper-navigation-size: 44px;
+  --screen-x: 1114px;
+  --screen-y: 1041px;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  text-transform: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  text-decoration: none;
+  border: none;
+  margin: 3px 0;
+  font-weight: 500;
+  transition: .1s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  background: #ea1d2c;
+  color: #fff;
+  -webkit-appearance: button;
+  border-radius: 6px;
+  padding: 10px;
+  height: 44px;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
